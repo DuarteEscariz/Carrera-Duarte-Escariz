@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="texto"></p>
+    <script type="text/javascript">
+        const NOMBRE = 'Duarte'
+        const JUEGO = 'Slay the Spire'
+        const DESCUENTO = 20
+        const TEXTO = `Hola ${NOMBRE},
+        Como regalo de bienvenida al Club de gamers,
+        queremos ofrecer un descuento del ${ DESCUENTO}
+        en el próximo lanzamiento de tu interés ${JUEGO}
+        Esperamos lo disfrutes,
+        Un saludo,`
+        document.querySelector('.texto').innerHTML = TEXTO
+    </script>
+</body>
+</html>
