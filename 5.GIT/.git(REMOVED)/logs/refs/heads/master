@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 e28187b889b680dd135ba30db57c720c7648d919 DuarteEscariz <duarteesca@gmail.com> 1668362684 +0100	commit (initial): mensaje de mi primer commit
+e28187b889b680dd135ba30db57c720c7648d919 a4757096d191d9bef0d9e689983dbec92eff88c3 DuarteEscariz <duarteesca@gmail.com> 1668363225 +0100	commit: mi segundo commit
+a4757096d191d9bef0d9e689983dbec92eff88c3 f40b10686ca971fabbebc2632d6e0602bccd4aed DuarteEscariz <duarteesca@gmail.com> 1668364048 +0100	commit: Commit de cambios en readme2.md
+f40b10686ca971fabbebc2632d6e0602bccd4aed daf4f70c4d1a4275e36ed528754d41f5c22b023b DuarteEscariz <duarteesca@gmail.com> 1668368380 +0100	commit: Segundo commit deshacer cambios
+daf4f70c4d1a4275e36ed528754d41f5c22b023b 5401374cb62be92b4104aaa0e0215f9514de1b31 DuarteEscariz <duarteesca@gmail.com> 1668368491 +0100	commit: tercer commit deshacer
+5401374cb62be92b4104aaa0e0215f9514de1b31 58c024768d08a0421b01b09977c310a558b4201b DuarteEscariz <duarteesca@gmail.com> 1668368828 +0100	commit: Commit deshacer datos final
+58c024768d08a0421b01b09977c310a558b4201b 3a76a8ec7b1a1c23a52484a9540f032aaa579ad4 DuarteEscariz <duarteesca@gmail.com> 1668369098 +0100	commit: Commit prueba revert
+3a76a8ec7b1a1c23a52484a9540f032aaa579ad4 f082499ea39f4f8e4b8a04bd2752e6fff15a4c50 DuarteEscariz <duarteesca@gmail.com> 1668369152 +0100	revert: Revert "Commit prueba revert"
+f082499ea39f4f8e4b8a04bd2752e6fff15a4c50 288880fb6aa83573ac54cc61d00576ee5d97533f DuarteEscariz <duarteesca@gmail.com> 1668376301 +0100	merge new_master: Fast-forward
+288880fb6aa83573ac54cc61d00576ee5d97533f e0e838edab2340efa31ad0f8df805689960662ed DuarteEscariz <duarteesca@gmail.com> 1668378524 +0100	commit: Commit de ammend1
+e0e838edab2340efa31ad0f8df805689960662ed e3d6888b60dc833502d1c0d28824a587693fd4df DuarteEscariz <duarteesca@gmail.com> 1668378594 +0100	commit: Commit de ammend2
+e3d6888b60dc833502d1c0d28824a587693fd4df 45c96a110390a93bbf570c6ed8aac4a12a4e8cb6 DuarteEscariz <duarteesca@gmail.com> 1668379590 +0100	commit: Final Commit
