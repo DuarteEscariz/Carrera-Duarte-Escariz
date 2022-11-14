@@ -22,7 +22,7 @@ Ampliación de los tipos de datos: objetos, arrays y bucles, recorrido de DOM y 
 
 ## Curso de Javascript Avanzado
 
-Explicación de estructuras de datos avanzadas, teoría de tipado débil y coerción, teoría de programación funcional comparada con programación orientada a objetos, explicación de módulos en javascript:
+Explicación de estructuras de datos avanzadas, teoría de tipado débil y coerción, teoría de programación funcional comparada con programación orientada a objetos, explicación de módulos en javascript (Falta parte práctica y un video entero, el de tipado débil):
  **terminado**
 
 ## Curso de GIT
