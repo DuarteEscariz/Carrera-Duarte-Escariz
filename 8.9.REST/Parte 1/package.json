@@ -1,0 +1,19 @@
+{
+  "name": "node-express-1",
+  "version": "0.0.1",
+  "description": "API REST CURSO",
+  "main": "index.js",
+  "author": "Duarte Escariz ",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

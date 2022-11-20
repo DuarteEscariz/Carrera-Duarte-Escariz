@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+div{
+  max-width: none;
+  width: 50%;
+  background-color: rgb(169, 236, 180);
+  color: rgb(17, 3, 48);
+  margin:auto;
+}
+button,span{
+  align-self: center;
+  margin:10%;
+}
