@@ -47,3 +47,10 @@ Testeo de componentes con modo estricto y Jest, code-splitting y tree-shaking (P
 Configuracion del entorno de desarrollo y instalación de dependencias con yarn, creación de nuestra api rest y request hechas con Insomnia y Studio 3T, creación de endpoints y estructuras para tareas, conexión a una base de datos MongoDB, autentificación y cifrado de contraseñas (Cursos desordenados en el itinerario de la carrera):
 
 **terminado**
+
+## Curso de MongoDB
+
+Instalación de MongoDB y consola, creación y gestión de bases de datos, explicación de Schemaless, documentos embedidos y referenciados, operaciones con datos (CRUD) y mejoras de rendimiento
+
+**terminado**
+**carrera terminada**

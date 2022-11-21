@@ -1,0 +1,60 @@
+Al tener que realizar los ejercicios por consola escribiré los comandos por aqui, precedidos de una breve explicación del tema en el que me encuentro.
+
+Practica 1
+
+-Escribimos el comando "mongo" en consola
+
+-use concesionario
+-db.coches.insertOne({})
+-db.coches.insertOne({marca:'Ferrari', caballos: 150, año:1998, kilometraje:50000})
+-show dbs
+-db.dropDatabase
+-show dbs
+
+Practica 2
+
+-db.productos.insertOne({
+	"referencia":"P0001",
+	"tipo": "camisa",
+	"paraHombre": true,
+	"talla": "XS",
+	"precio": 20.99
+	})
+
+-db.productos.insertOne({
+	"referencia":"P0002",
+	"tipo": "camisa",
+	"paraHombre": true,
+	"talla": "XL",
+	"precio": 30.25
+	})
+
+-db.productos.insertOne({
+	"referencia":"P0003",
+	"tipo": "pantalon",
+	"paraMujer": True,
+	"talla": "L",
+	"precio": 20.99
+	})
+
+Para insertarlas todas juntas tendríamos que usar insert one pero con un array de objetos JSON
+
+Para eliminar
+-db.productos.deleteMany({})
+
+-db.productos.updateMany({paraHombre:true},{$set: {paraMujer:false}}).
+
+-db.productos.updateMany({paraMujer:true},{$set: {paraHombre:false}}).
+
+para cada uno de los 3 registros
+-db.productos.updateOne({referencia: "P0001",{$set: {tipo:"chaqueta",talla:"M"}}})
+
+Practica 3
+Crearemos el indice simple y el compuesto y los eliminaremos posteriormente
+
+db.profesores.createIndex({salario,-1})
+db.profesores.createIndex({email:1,clave:-1})
+db.profesores.dropIndexes()
+
+
+
